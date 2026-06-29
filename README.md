@@ -95,8 +95,8 @@ Editar `backend/src/main/resources/application.properties`:
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/medicitas?useSSL=false&serverTimezone=America/Bogota&allowPublicKeyRetrieval=true
-spring.datasource.username=root
-spring.datasource.password=tu_contrasena
+spring.datasource.username=***********
+spring.datasource.password=******
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.open-in-view=true
@@ -254,9 +254,9 @@ medicitas/
 
 ## Autor
 
-Desarrollado por **Anna Paola Mestra** como proyecto de desarrollo fullstack.
+Desarrollado por **Ana Mestra** como proyecto de desarrollo fullstack.
 
-Estudiante de Ingenieria de Sistemas — enfoque en desarrollo backend con Java Spring Boot y ciberseguridad.
+Estudiante de Tecnica en desarrollo de software— enfoque en desarrollo backend con Java Spring Boot y ciberseguridad.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
